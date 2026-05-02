@@ -16,7 +16,8 @@ A simple calculator built using HTML, CSS, and JavaScript.
 * Clean and responsive UI
 * User-friendly layout
 
-👉 **Live Demo:** *(Add your GitHub Pages link here later)*
+👉 **Live Demo:** *((https://AnmolKankarwal.github.io/Frontend_Projects/calculator/))*
+
 
 ---
 
